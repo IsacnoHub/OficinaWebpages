@@ -1,0 +1,20 @@
+{
+    "alunos":[
+
+        {
+            "nome":"Allan Ramos",
+            "idade":20,
+            "altura":1.75
+        },
+        {
+            "nome":"Isac Azevedo",
+            "idade":18,
+            "altura":1.84
+        },
+        {
+            "nome":"João Gabriel",
+            "idade":19,
+            "altura":1.83
+        }
+    ]
+}
